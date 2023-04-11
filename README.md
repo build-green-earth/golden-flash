@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+# I am a Full Stack Engineer who has over 8 years of experience.
+😄 Pronouns: He/Him
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+🌱 I am Venice-born lifelong learner, passionate about science and technology. A goal-oriented and highly-skilled team player, he enjoys coding and collaborating with other developers, engineers, and software testers to deliver remarkable products within deadlines and budgets.
 
 <!--
 **golden-flash/golden-flash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
-- 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
-  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
-  
-  [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=golden-flash&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+- :zap: I love javascript
+- 🌱 I’m addicted to learning and expanding my skills every day
+- :earth_africa: I am currently looking for new opportunites to join global companies to enhance my skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golden-flash)](https://github.com/anuraghazra/github-readme-stats)
+## My Github
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=golden-flash&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/golden-flash/github-readme-stats)
+
+## Top Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golden-flash)](https://github.com/golden-flash/github-readme-stats)
