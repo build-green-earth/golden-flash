@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 <h3 align="left" style="margin-top: 20px; margin-bottom: 20px;">My portfolio</h3>
 <img src="https://oppify.io/img/main-logo.d1312c72.svg" /> CRM Product [Oppify](https://oppify.io)
-<img src="https://soundraw.io/assets/logo_soundraw-ece48640135e9c1f9372d6a27c0a91fa81fd4fdad9f4f7d514c66936468762f4.webp" /> AI Music Platform [Soundraw](https://soundraw.io)
-<img src="https://springcard.com/svg/springcard-logo.svg?v=2022" /> [Tripp](https://tripp.social)
+<img src="https://soundraw-image.s3.ap-northeast-1.amazonaws.com/soundraw_ogp_EN.png" width="156" height"40" /> AI Music Platform [Soundraw](https://soundraw.io)
+<img src="https://springcard.com/svg/springcard-logo.svg?v=2022" width="156" height="40" /> [SpringCard](https://springcard.com)
