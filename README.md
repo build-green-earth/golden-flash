@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 - 🌱 I’m addicted to learning and expanding my skills every day
 - :earth_africa: I am currently looking for new opportunites to join global companies to enhance my skills
 
-## My Github
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=golden-flash&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/golden-flash/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=golden-flash&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/golden-flash/github-readme-stats)
 
-## Top Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golden-flash)](https://github.com/golden-flash/github-readme-stats)
+
+## My Past works
+<a target="_blank" href="https://oppify.io">
+<a target="_blank" href="https://soundraw.io">
+<a target="_blank" href="https://tripp.social">
