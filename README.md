@@ -32,6 +32,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golden-flash&" alt="golden-flash" /></p>
 
 ## My Past works
-<a target="_blank" href="https://oppify.io">
-<a target="_blank" href="https://soundraw.io">
-<a target="_blank" href="https://tripp.social">
+- 🔭 I’m currently working on [Soundraw](https://soundraw.io)
