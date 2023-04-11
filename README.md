@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golden-flash&" alt="golden-flash" /></p>
 
 <h3 align="left" style="margin-top: 20px; margin-bottom: 20px;">My portfolio</h3>
-<img src="https://oppify.io/img/main-logo.d1312c72.svg" /> CRM Product [Oppify](https://oppify.io)
-<img src="https://soundraw-image.s3.ap-northeast-1.amazonaws.com/soundraw_ogp_EN.png" width="156" height"40" style="margin-top: 10px;" /> AI Music Platform [Soundraw](https://soundraw.io)
-<img src="https://springcard.com/svg/springcard-logo.svg?v=2022" width="156" height="40" /> [SpringCard](https://springcard.com)
+<img src="https://oppify.io/img/main-logo.d1312c72.svg" /> https://oppify.io
+<img src="https://soundraw-image.s3.ap-northeast-1.amazonaws.com/soundraw_ogp_EN.png" width="156" height"40" style="margin-top: 10px;" /> https://soundraw.io
+<img src="https://springcard.com/svg/springcard-logo.svg?v=2022" width="156" height="40" /> https://springcard.com
