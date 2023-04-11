@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golden-flash&" alt="golden-flash" /></p>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=golden-flash&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/golden-flash/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golden-flash)](https://github.com/golden-flash/github-readme-stats)
-
 ## My Past works
 <a target="_blank" href="https://oppify.io">
 <a target="_blank" href="https://soundraw.io">
