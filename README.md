@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golden-flash&" alt="golden-flash" /></p>
 
-## My Past works
-- 🔭 I’m currently working on [Soundraw](https://soundraw.io)
+<h3 align="left" style="margin-top: 20px; margin-bottom: 20px;">My portfolio</h3>
+- 🔭 CRM Product [Oppify](https://oppify.io)
+- 👯 AI Music Platform [Soundraw](https://soundraw.io)
+- ⚡ Personal Project [Tripp](https://tripp.social)
